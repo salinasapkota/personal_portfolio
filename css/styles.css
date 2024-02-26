@@ -161,6 +161,12 @@ flex-direction: column;
 .project-item img{
     width: 300px;
 }
+.project-link{
+    background-color: #3c8453 
+    ;
+    color: white;
+    text-decoration: none;
+}
 @media screen and (min-width: 860px){
     .project-item{
         display: flow-root;
